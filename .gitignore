@@ -15,6 +15,7 @@ env/
 # IDE
 .idea/
 .vscode/
+.claude/
 *.swp
 *.swo
 *~
@@ -30,3 +31,9 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+# Frontend (Node.js / Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
